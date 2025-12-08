@@ -62,13 +62,13 @@ data-warehouse-project/
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
 │
 ├── docs/                               # Project documentation and architecture details
-│   ├── data_architecture.png           # Shows the project's architecture. ![Data Architecture](docs/data_architecture.png)
-│   ├── data_catalog.md                 # Catalog of datasets, including field descriptions and metadata. ![Data Architecture](docs/data_catalog.md)
-│   ├── data_flow.png                   # Data flow diagram. ![Data Architecture](docs/data_flow.png)
-│   ├── data_models.png                 # Data models (star schema). ![Data Architecture](docs/data_models.png)
-│   ├── data_integration.png            # Data integration. ![Data Architecture](docs/data_integration.png)
-│   ├── data_layers.pdf                 # Overviews of data layers. ![Data Architecture](docs/data_layers.pdf)
-│   ├── naming-conventions.md           # Consistent naming guidelines for tables, columns, and files
+│   ├── data_architecture.png           # Shows the project's architecture. 
+│   ├── data_catalog.md                 # Catalog of datasets, including field descriptions and metadata.
+│   ├── data_flow.png                   # Data flow diagram. 
+│   ├── data_models.png                 # Data models (star schema). 
+│   ├── data_integration.png            # Data integration.
+│   ├── data_layers.pdf                 # Overviews of data layers.
+│   ├── naming-conventions.md           # Consistent naming guidelines for tables, columns, and files.
 │
 ├── scripts/                            # SQL scripts for ETL and transformations
 │   ├── bronze/                         # Scripts for extracting and loading raw data
@@ -82,14 +82,30 @@ data-warehouse-project/
 ├── .gitignore                          # Files and directories to be ignored by Git
 └── requirements.txt                    # Dependencies and requirements for the project
 ```
+
+## Diagrams
+Project Architecture
+![Data Architecture](docs/data_architecture.png)
+Catalog of datasets
+![Data Catalog](docs/data_catalog.md)
+Data flow diagram
+![Data Flow](docs/data_flow.png)
+Data models
+![Data Models](docs/data_models.png)
+Data integration
+![Data Integration](docs/data_integration.png)
+Data Layers
+![Data Layers](docs/data_layers.pdf)
+
 ---
+
 ## 🛡️ License
 
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+This project is licensed under the [MIT License](LICENSE). You are welcome to use, modify, and share this project with proper attribution.
 
 ## 🌟 About Me
 
-Hi there! I'm **Yitbarek Tesfaye**. I’m a 5th year Software Engineering student and Professional Data Analyst.
-Let's stay in touch! Feel free to connect with me on Linkedin:
+Hi there! I'm **Yitbarek Tesfaye**. I’m a 5th-year Software Engineering student and Professional Data Analyst.
+Let's stay in touch! Feel free to connect with me on LinkedIn:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yitbarektesfaye)
