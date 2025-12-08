@@ -84,18 +84,13 @@ data-warehouse-project/
 ```
 
 ## Diagrams
-Project Architecture
-[Data Architecture](docs/data_architecture.png)
-Catalog of datasets
-[Data Catalog](docs/data_catalog.md)
-Data flow diagram
-[Data Flow](docs/data_flow.png)
-Data models
-[Data Models](docs/data_models.png)
-Data integration
-[Data Integration](docs/data_integration.png)
-Data Layers
-[Data Layers](docs/data_layers.pdf)
+
+- Project Architecture → [Data Architecture](docs/data_architecture.png)
+- Catalog of datasets → [Data Catalog](docs/data_catalog.md)
+- Data flow diagram → [Data Flow](docs/data_flow.png)
+- Data models → [Data Models](docs/data_models.png)
+- Data integration → [Data Integration](docs/data_integration.png)
+- Data Layers → [Data Layers](docs/data_layers.pdf)
 
 ---
 
